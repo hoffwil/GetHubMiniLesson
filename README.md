@@ -1,7 +1,2 @@
 # GetHubMiniLesson
-# GetHubMiniLesson
-# GetHubMiniLesson
-# GetHubMiniLesson
-# GetHubMiniLesson
-# GitHubMiniLesson
-# GetHubMiniLesson
+We are experimenting with GitHub
